@@ -1,0 +1,109 @@
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Biggoron Sword.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Giant's Knife.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Kokiri Boots.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Kokiri Sword.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Master Sword.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Kokiri Tunic.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Kokiri's Emerald.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Lens of Truth.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Light Arrows.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Longshot.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Magic Beans.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Mirror Shield.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Nayru's Love.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Ocarina of Time.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Quiver.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Silver Gauntlets.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Silver Scale.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Slingshot.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Zora Tunic.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Zora's Sapphire.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Adult Wallet.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Big Bomb Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Big Deku Seed Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Big Quiver.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Biggest Bomb Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Biggest Deku Seed Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Biggest Quiver.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bomb Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bombchus.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bombs.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Boomerang.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bottle.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Deku  Nut.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Deku Seed Bag.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Deku Shield.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Deku Stick.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Din's Fire.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Fairy Bow.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Fairy Ocarina.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Farore's Wind.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Fire Arrows.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Giant's Wallet.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Gold Gauntlets.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Golden Scale.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Goron Tunic.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Goron's Bracelet.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Goron's Ruby.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Hookshot.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Hover Boots.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Hylian Shield.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Ice Arrows.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Iron Boots.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Water Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Fire Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Forest Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Light Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Shadow Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Spirit Medallion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bunny Hood.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Gerudo Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Goron Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Keaton Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Mask of Truth.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Skull Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Spooky Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Zora Mask.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Cucco.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Gerudo Token.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Gold Skulltula Token.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Shard of Agony.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Stone of Agony.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Weird Egg.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Zelda's Letter.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\World's Finest Eyedrops.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Broken Goron Sword.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Claim Check.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Cojiro.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Eyeball Frog.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Odd Mushroom.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Odd Potion.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Poacher's Saw.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Pocket Cucco.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Pocket Egg.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Prescription.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\OoT Randomizer Item Checklist.exe.config
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\OoT Randomizer Item Checklist.exe
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\OoT Randomizer Item Checklist.pdb
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\MainWindow.g.cs
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\App.g.cs
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist_Content.g.cs
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist_MarkupCompile.cache
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist_MarkupCompile.lref
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\MainWindow.baml
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.g.resources
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT_Randomizer_Item_Checklist.Properties.Resources.resources
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.csproj.GenerateResource.cache
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.csproj.CoreCompileInputs.cache
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.exe
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.pdb
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\obj\Release\OoT Randomizer Item Checklist.csprojAssemblyReference.cache
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Bolero of Fire.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Minuet of Forest.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Nocturne of Shadow.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Prelude of Light.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Requiem of Spirit.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Scarecrow's Song.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Serenade of Water.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Song.png
+c:\users\olsen\documents\visual studio 2017\Projects\OoT Randomizer Item Checklist\OoT Randomizer Item Checklist\bin\Release\Resources\Megaton Hammer.png

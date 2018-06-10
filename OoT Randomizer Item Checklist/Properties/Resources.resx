@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Adult_Wallet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Adult Wallet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biggest_Bomb_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biggest Bomb Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biggest_Deku_Seed_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biggest Deku Seed Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biggest_Quiver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biggest Quiver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biggoron_Sword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biggoron Sword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Big_Bomb_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Big Bomb Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Big_Deku_Seed_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Big Deku Seed Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Big_Quiver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Big Quiver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bombchus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bombchus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bombs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bombs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bomb_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bomb Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boomerang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boomerang.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bottle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bottle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Broken_Goron_Sword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Broken Goron Sword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bunny_Hood" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bunny Hood.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Claim_Check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Claim Check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cojiro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cojiro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cucco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cucco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deku_Seed_Bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Deku Seed Bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deku_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Deku Shield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deku_Stick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Deku Stick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deku__Nut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Deku  Nut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Din_s_Fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Din's Fire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eyeball_Frog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eyeball Frog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fairy_Bow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fairy Bow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fairy_Ocarina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fairy Ocarina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Farore_s_Wind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Farore's Wind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire_Arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forest_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forest Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gerudo_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gerudo Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gerudo_Token" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gerudo Token.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Giant_s_Knife" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Giant's Knife.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Giant_s_Wallet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Giant's Wallet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Golden_Scale" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Golden Scale.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gold_Gauntlets" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gold Gauntlets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gold_Skulltula_Token" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gold Skulltula Token.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Goron_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Goron Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Goron_s_Bracelet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Goron's Bracelet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Goron_s_Ruby" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Goron's Ruby.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Goron_Tunic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Goron Tunic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hookshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hookshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hover_Boots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hover Boots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hylian_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hylian Shield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ice_Arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ice Arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iron_Boots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Iron Boots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Keaton_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Keaton Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kokiri_Boots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kokiri Boots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kokiri_Sword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kokiri Sword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kokiri_s_Emerald" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kokiri's Emerald.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kokiri_Tunic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kokiri Tunic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lens_of_Truth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lens of Truth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Light_Arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Light Arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Light_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Light Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Longshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Longshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Magic_Beans" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Magic Beans.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mask_of_Truth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mask of Truth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Master_Sword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Master Sword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mirror_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mirror Shield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nayru_s_Love" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Nayru's Love.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ocarina_of_Time" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ocarina of Time.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Odd_Mushroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Odd Mushroom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Odd_Potion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Odd Potion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poacher_s_Saw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Poacher's Saw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pocket_Cucco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pocket Cucco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pocket_Egg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pocket Egg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Prescription" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Prescription.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quiver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shadow_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shadow Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shard_of_Agony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shard of Agony.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silver_Gauntlets" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Silver Gauntlets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silver_Scale" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Silver Scale.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skull_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skull Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slingshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slingshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spirit_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Spirit Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Spooky_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Spooky Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stone_of_Agony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stone of Agony.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water_Medallion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Medallion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weird_Egg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weird Egg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="World_s_Finest_Eyedrops" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\World's Finest Eyedrops.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zelda_s_Letter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zelda's Letter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zora_Mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zora Mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zora_s_Sapphire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zora's Sapphire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zora_Tunic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zora Tunic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
